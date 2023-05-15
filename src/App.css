@@ -1,0 +1,31 @@
+*{
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+}
+body::-webkit-scrollbar {
+  width: 15px;
+}
+
+body::-webkit-scrollbar-track {
+  background: #ffceef; 
+}
+
+body::-webkit-scrollbar-thumb {
+  height: 2px;
+  background-color: #3e01a7;
+  border-radius: 20px;
+  border: 3px solid #ffceef; 
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+html {
+  margin: 0;
+  padding: 0;
+}
+.app{
+  margin: 0;
+  padding: 0;
+}
